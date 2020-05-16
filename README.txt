@@ -11,3 +11,5 @@ It will take about 20mins to build a Docker image at the first time. If an image
 Since it is built, A JupyterHub server will host you to our repository's content. You can open the notebook and start reproducing the results. 
 
 You are good to go to reproduce the paper!
+
+NOTE: SIMSUN is a font file used for showing chinese character, it cannot be suppported in Binder, but if you downloaded this file to your own machine, and run the notebook in your conda environment, it will work.
